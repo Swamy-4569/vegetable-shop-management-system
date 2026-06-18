@@ -25,16 +25,16 @@ Swamy Naidu
 ## Screenshots
 
 ### Owner Menu
-![Owner Menu](screenshots/owner_menu.png)
+![Owner Menu](owner_menu.png.png)
 
-### Inventory Management
-![Inventory](screenshots/inventory.png)
+### Inventory
+![Inventory](inventory.png.png)
 
-### Shopping Cart
-![Cart](screenshots/cart.png)
+### Cart
+![Cart](cart.png.png)
 
-### Billing System
-![Billing](screenshots/billing.png)
+### Billing
+![Billing](billing.png.png)
 
-### Sales Report
-![Report](screenshots/report.png)
+### Report
+![Report](report.png.png)
