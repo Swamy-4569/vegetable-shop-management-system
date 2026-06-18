@@ -21,3 +21,20 @@ python vegetable_shop.py
 
 ## Author
 Swamy Naidu
+
+## Screenshots
+
+### Owner Menu
+![Owner Menu](screenshots/owner_menu.png)
+
+### Inventory Management
+![Inventory](screenshots/inventory.png)
+
+### Shopping Cart
+![Cart](screenshots/cart.png)
+
+### Billing System
+![Billing](screenshots/billing.png)
+
+### Sales Report
+![Report](screenshots/report.png)
